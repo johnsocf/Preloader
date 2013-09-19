@@ -1,0 +1,4 @@
+Preloader
+=========
+
+canvas preloader animation
